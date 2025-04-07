@@ -18,3 +18,4 @@ const pi = 3.14
 // Variables can also be declaring in one line separated by comma
 let name = 'Rafia', age1 = 23, country1 = 'Pakistan'
 console.log(firstname, lastname, country, age, ismarried) 
+console.log(gravity)
